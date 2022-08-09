@@ -8,7 +8,7 @@ Getting started, I check some info on https://wordpress.com/nl/
 - [x]  "start your website"
 - [x] free option domain name for your website: deliciousrecepies587404528 (start with a free site)
 
-=> I have my first site :-)
+=> I have my first site :-)  https://wordpress.com/page/deliciousrecepies587404528.wordpress.com/43
 
 
 I don't think this is very user-friendly
